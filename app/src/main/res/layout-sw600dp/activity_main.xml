@@ -9,8 +9,8 @@
 
     <TextView
         android:id="@+id/show_count"
-        android:layout_width="516dp"
-        android:layout_height="0dp"
+        android:layout_width="904dp"
+        android:layout_height="726dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="24dp"
@@ -27,9 +27,9 @@
 
     <Button
         android:id="@+id/button_toast"
-        android:layout_width="117dp"
-        android:layout_height="67dp"
-        android:layout_marginTop="16dp"
+        android:layout_width="211dp"
+        android:layout_height="147dp"
+        android:layout_marginTop="90dp"
         android:background="@color/colorPrimary"
         android:onClick="showToast"
         android:text="@string/text_toast"
@@ -40,9 +40,9 @@
 
     <Button
         android:id="@+id/ZERO"
-        android:layout_width="117dp"
-        android:layout_height="67dp"
-        android:layout_marginTop="32dp"
+        android:layout_width="211dp"
+        android:layout_height="147dp"
+        android:layout_marginTop="70dp"
         android:background="@color/gray"
         android:onClick="zerofunctons"
         android:text="@string/zero_button"
@@ -52,9 +52,9 @@
 
     <Button
         android:id="@+id/button_count"
-        android:layout_width="117dp"
-        android:layout_height="0dp"
-        android:layout_marginTop="32dp"
+        android:layout_width="211dp"
+        android:layout_height="147dp"
+        android:layout_marginTop="70dp"
         android:background="@color/colorPrimary"
         android:onClick="countup"
         android:text="@string/text_count"
